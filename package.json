@@ -1,0 +1,19 @@
+{
+  "name": "sprint-challenge-react-wars",
+  "version": "1.0.0",
+  "description": "This challenge allows you to practice the concepts and techniques learned over the past Sprint and apply them in a concrete project. This Sprint explored ReactJS, Function Components, component state and side effects. In your challenge for this Sprint, you will demonstrate proficiency by creating an application that uses ReactJS to consume live data retrieved from the World Wide Web and style that data nicely on the page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonicemma/Sprint-Challenge-React-Wars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonicemma/Sprint-Challenge-React-Wars/issues"
+  },
+  "homepage": "https://github.com/sonicemma/Sprint-Challenge-React-Wars#readme"
+}
