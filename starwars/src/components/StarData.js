@@ -9,7 +9,6 @@ export default function StarData() {
         axios
             .get(`https://swapi.co/api/people/`)
             .then(response => {
-                console.log(response.data.results);
                 setData(response.data.results);
             })
     }, [])

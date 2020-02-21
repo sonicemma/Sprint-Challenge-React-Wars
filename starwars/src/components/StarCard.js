@@ -11,10 +11,12 @@ const DataBackground = styled.div`
 const NewHeader = styled.h2`
     font-family: 'Press Start 2P', cursive;
     margin: 1%;
+    font-size: 1.2rem;
 `
 
 const NewPara = styled.p`
     font-family: 'Geostar Fill', cursive;
+    font-size: 1rem;
 `
 
 const StarCard = props => {
